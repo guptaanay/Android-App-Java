@@ -7,12 +7,12 @@ This project showcases a mobile application developed as part of my app developm
 - User Authentication
 - Data Storage
 - Responsive User Interface
-- [Add any additional features here]
+- Real TIme Database
 
 ## Technologies Used
 - Java
 - Android Studio
-- [Any other technologies or libraries used]
+- FireBase
 
 ## Installation
 To get a local copy up and running, follow these simple steps:
